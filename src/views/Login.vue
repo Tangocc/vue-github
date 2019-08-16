@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-  <div>登 录</div>
+  <!-- <div>登 录</div>
   <el-form ref="form" v-model="form">
 <el-form-item>
     <el-input v-model="form.name"></el-input>
@@ -14,8 +14,8 @@
 </el-form-item>
 
   </el-form>
- 
-
+  -->
+hahahhahahh
   </div>
 </template>
 
@@ -34,7 +34,7 @@ export default {
 <style scoped>
 
 .container {
-  
+  background: rebeccapurple;
   width: 300px;
   height: 400px;
   position: fixed;
